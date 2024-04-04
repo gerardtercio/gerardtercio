@@ -7,7 +7,6 @@
 📚 Estou estudando Engenharia de Computação na UFC (Universidade Federal do Ceará) <br>
 <br>
 
-<br>
 
 ## Sobre mim:
 
